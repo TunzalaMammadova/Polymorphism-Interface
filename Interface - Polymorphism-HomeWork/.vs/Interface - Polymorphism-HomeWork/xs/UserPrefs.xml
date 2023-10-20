@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{81516C96-ECB9-4BF8-B39D-FAB0760FD574}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Interface_220-_220Polymorphism-HomeWork PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interface - Polymorphism-HomeWork/Controllers/CategoryController.cs">
+    <Files>
+      <File FileName="Interface - Polymorphism-HomeWork/Program.cs" />
+      <File FileName="Domain/Models/BaseEntity.cs" />
+      <File FileName="Domain/Models/Category.cs" />
+      <File FileName="Service/Services/Interface/IProductService.cs" />
+      <File FileName="Service/Services/ProductService.cs" />
+      <File FileName="Interface - Polymorphism-HomeWork/Controllers/ProductController.cs" />
+      <File FileName="Service/Services/Interface/ICategoryService.cs" />
+      <File FileName="Service/Services/CategoryService.cs" />
+      <File FileName="Interface - Polymorphism-HomeWork/Controllers/CategoryController.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interface - Polymorphism-HomeWork" expanded="True">
+            <Node name="Interface - Polymorphism-HomeWork" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CategoryController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
